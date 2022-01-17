@@ -14,7 +14,6 @@ namespace my_project
             set { _customerList = value; }
         }
 
-
         public ShoeMenu()
         {
             ShoeListSetup();
@@ -78,7 +77,6 @@ namespace my_project
             
         }
 
-
         public void ShoeSelection()
         {
             foreach (var shoe in _shoeCatalog)
@@ -86,8 +84,6 @@ namespace my_project
                 Console.WriteLine("\n" + shoe);
             }
         }
-
-       
 
         void DeleteShoe()
         {
@@ -116,9 +112,7 @@ namespace my_project
                 {
                     Console.WriteLine("This shoe could not be found.Please try again");
                 }
-            }
-
-             
+            } 
         }
 
         Shoe FindShoe(string shoeID) //Not the same as SearchPizza method
@@ -126,6 +120,5 @@ namespace my_project
             Shoe shoe = _shoeCatalog.Find(x => x.ID.ToString() == shoeID);
             return shoe;
         }
-
     }
 }

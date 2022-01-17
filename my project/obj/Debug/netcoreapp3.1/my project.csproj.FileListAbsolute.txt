@@ -12,3 +12,17 @@ C:\Users\teako\OneDrive\Documents\my project\my project\bin\Debug\netcoreapp3.1\
 C:\Users\teako\OneDrive\Documents\my project\my project\obj\Debug\netcoreapp3.1\my project.dll
 C:\Users\teako\OneDrive\Documents\my project\my project\obj\Debug\netcoreapp3.1\my project.pdb
 C:\Users\teako\OneDrive\Documents\my project\my project\obj\Debug\netcoreapp3.1\my project.genruntimeconfig.cache
+C:\Users\barto\Desktop\exam-exercise\my project\bin\Debug\netcoreapp3.1\my project.exe
+C:\Users\barto\Desktop\exam-exercise\my project\bin\Debug\netcoreapp3.1\my project.deps.json
+C:\Users\barto\Desktop\exam-exercise\my project\bin\Debug\netcoreapp3.1\my project.runtimeconfig.json
+C:\Users\barto\Desktop\exam-exercise\my project\bin\Debug\netcoreapp3.1\my project.runtimeconfig.dev.json
+C:\Users\barto\Desktop\exam-exercise\my project\bin\Debug\netcoreapp3.1\my project.dll
+C:\Users\barto\Desktop\exam-exercise\my project\bin\Debug\netcoreapp3.1\my project.pdb
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.csproj.AssemblyReference.cache
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.AssemblyInfo.cs
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.dll
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.pdb
+C:\Users\barto\Desktop\exam-exercise\my project\obj\Debug\netcoreapp3.1\my project.genruntimeconfig.cache

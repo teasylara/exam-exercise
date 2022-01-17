@@ -9,7 +9,6 @@ namespace my_project
         private List<Customer> _listOfCustomers = new List<Customer>();
         private ShoeMenu _shoeMenu;
         
-
         public CustomerList()
         {
             CustomerListSetup();
